@@ -45,4 +45,8 @@ public class CoffeeOrder {
         return orderId;
     }
 
+    public void doNothing() {
+        return;
+    }
+
 }

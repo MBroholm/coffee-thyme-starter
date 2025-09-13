@@ -46,6 +46,7 @@ public class CoffeeOrder {
     }
 
     public void doNothing() {
+        System.out.println("doing nothing");
         return;
     }
 
